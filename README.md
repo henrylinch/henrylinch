@@ -1,7 +1,7 @@
 - 👋 Hello, I’m @henrylinch
 - 👀 I’m interested in computer programming and website development.
-- 🌱 I’m currently learning HTML and CSS, yet to begin JavaScript.
-- 💞️ I’m looking to collaborate on HTML and CSS projects.
+- 🌱 I’m currently a Scrimba frontend developer career path student.
+- 💞️ I’m looking forward to collaborate on HTML and CSS projects.
 - 📫 Reach me on email: hkirabo54.solution@gmail.com or Whatsapp 0786084797
 
 <!---
